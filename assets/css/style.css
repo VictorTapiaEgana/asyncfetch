@@ -1,0 +1,11 @@
+li:nth-child(even) {
+    background-color: rgb(252, 252, 69);
+}
+
+strong{
+    text-transform: uppercase;    
+}
+
+p{
+    text-transform: capitalize;
+}
